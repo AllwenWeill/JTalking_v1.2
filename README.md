@@ -1,7 +1,10 @@
 # JTalking_v1.2
 JTalking（Just Talking）是基于QT开发的一款即时通讯软件，具有登录、注册、聊天、传输文件功能，在登录部分采用CS模型，需将用户注册账号信息打包发送给服务器端，服务器拆包识别各字段含义，将客户端的账号密码端口号等信息添加在服务器数据库中，客户端可通过刷新按钮可查询服务器端数据库的好友信息，然后与指定好友进行P2P连接，不再让服务器端当成中转站，服务器端并没有采用多线程处理多个客户端，而是采用分时方案减轻服务器端的压力。
+
 **登录页面**
+
 ![image](https://github.com/AllwenWeill/IMG/blob/main/%E6%88%AA%E5%9B%BE11.png)
 
 **注册页面**
+
 ![image](https://github.com/AllwenWeill/IMG/blob/main/%E6%88%AA%E5%9B%BE12.png)
