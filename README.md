@@ -8,3 +8,6 @@ JTalking（Just Talking）是基于QT开发的一款即时通讯软件，具有�
 **注册页面**
 
 ![image](https://github.com/AllwenWeill/IMG/blob/main/%E6%88%AA%E5%9B%BE12.png)
+
+**聊天页面**
+![image]()
