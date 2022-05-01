@@ -23,7 +23,7 @@ JTalking（Just Talking）是基于QT开发的一款即时通讯软件，具有�
 ![image](https://github.com/AllwenWeill/IMG/blob/main/JTalking-%E6%9C%8D%E5%8A%A1%E5%99%A8%E7%AB%AF%E9%A1%B5%E9%9D%A2.png)
 
 ---
-**更新**
+**更新**\
 *2022.5.01————更新服务器端页面，增加数据库显示结果和删除效果，增加日志记录；*\
 *2022.4.29————修复客户端弹出多次错误弹窗Bug；*\
 *2022.4.28————增加文件选择、读取传输功能；*
