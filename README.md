@@ -16,3 +16,10 @@ JTalking（Just Talking）是基于QT开发的一款即时通讯软件，具有�
 **文件传输**
 
 ![image](https://github.com/AllwenWeill/IMG/blob/main/JTalking-%E6%96%87%E4%BB%B6%E4%BC%A0%E8%BE%93.png)
+
+**服务器端页面**
+
+![image]()
+
+**更新**
+2022.5.1————更新服务器端页面，增加数据库显示结果和删除效果，增加日志记录；
